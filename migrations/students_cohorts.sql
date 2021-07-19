@@ -16,3 +16,4 @@ CREATE TABLE students (
 
   
 -- test comment for github
+-- test comment 2
